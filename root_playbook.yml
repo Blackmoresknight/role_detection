@@ -1,5 +1,5 @@
 ---
 - name: Hello
   hosts: all
-  role:
+  roles:
     - rollie
